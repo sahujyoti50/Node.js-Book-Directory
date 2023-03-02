@@ -1,4 +1,4 @@
-# Node.js-Book-Directory
+# Node.js-Book Directory REST API
 
 TeckStack:
 1. Node.js
